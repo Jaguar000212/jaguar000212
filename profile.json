@@ -1,1 +1,151 @@
-{"data":{"user":{"name":"Shryansh Parashar","bio":"Passionate Developer, Gamer and Tech Enthusiast!","avatarUrl":"https://avatars.githubusercontent.com/u/112636196?u=7e21eb761c488b51f9a6da9db899984e2fdf16bb&v=4","location":"Bengaluru, Karnataka, India","pinnedItems":{"totalCount":6,"edges":[{"node":{"name":"Wizardi","description":"A multi utility Discord bot in Python","forkCount":0,"stargazers":{"totalCount":2},"url":"https://github.com/Jaguar000212/Wizardi","id":"R_kgDOKiT1tA","diskUsage":833,"primaryLanguage":{"name":"Python","color":"#3572A5"}}},{"node":{"name":"Wizardi-API","description":"API for Wizardi, the discord bot","forkCount":0,"stargazers":{"totalCount":1},"url":"https://github.com/Jaguar000212/Wizardi-API","id":"R_kgDOK_MDrw","diskUsage":22,"primaryLanguage":{"name":"Python","color":"#3572A5"}}},{"node":{"name":"Toodler","description":"A multi-purpose toolkit for all your needs","forkCount":0,"stargazers":{"totalCount":1},"url":"https://github.com/Jaguar000212/Toodler","id":"R_kgDOLNnVYA","diskUsage":101,"primaryLanguage":{"name":"Python","color":"#3572A5"}}},{"node":{"name":"Wedding-Planner","description":"Interactive Wedding Planner","forkCount":0,"stargazers":{"totalCount":3},"url":"https://github.com/Jaguar000212/Wedding-Planner","id":"R_kgDOKipKMQ","diskUsage":375,"primaryLanguage":{"name":"Python","color":"#3572A5"}}},{"node":{"name":"Address-Book","description":"Your personal contacts manager","forkCount":1,"stargazers":{"totalCount":2},"url":"https://github.com/Jaguar000212/Address-Book","id":"R_kgDOKibb2Q","diskUsage":899,"primaryLanguage":{"name":"Python","color":"#3572A5"}}},{"node":{"name":"LOTM-API","description":"Library that scraps data from one of the fandoms of Lord of the Mysteries, the renounced Novel.","forkCount":1,"stargazers":{"totalCount":2},"url":"https://github.com/Jaguar000212/LOTM-API","id":"R_kgDOLNmzww","diskUsage":79,"primaryLanguage":{"name":"Python","color":"#3572A5"}}}]}}}}
+{
+  "data": {
+    "user": {
+      "name": "Shryansh Parashar",
+      "bio": "Passionate Developer, Gamer and Tech Enthusiast!",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/112636196?u=7e21eb761c488b51f9a6da9db899984e2fdf16bb&v=4",
+      "location": "Bengaluru, Karnataka, India",
+      "pinnedItems": {
+        "totalCount": 8,
+        "edges": [
+          {
+            "node": {
+              "name": "Wizardi",
+              "description": "A multi utility Discord bot in Python",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 2
+              },
+              "url": "https://github.com/Jaguar000212/Wizardi",
+              "id": "R_kgDOKiT1tA",
+              "diskUsage": 840,
+              "primaryLanguage": {
+                "name": "Python",
+                "color": "#3572A5"
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "Self-Notes",
+              "description": "A personal noting app for android made in Java",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 7
+              },
+              "url": "https://github.com/Jaguar000212/Self-Notes",
+              "id": "R_kgDONdfC9g",
+              "diskUsage": 272,
+              "primaryLanguage": {
+                "name": "Java",
+                "color": "#b07219"
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "Tool-Kit",
+              "description": "All in one tool kit for daily use designed for simplicity, security and ease",
+              "forkCount": 1,
+              "stargazers": {
+                "totalCount": 1
+              },
+              "url": "https://github.com/Jaguar000212/Tool-Kit",
+              "id": "R_kgDONfYiFA",
+              "diskUsage": 269,
+              "primaryLanguage": {
+                "name": "Java",
+                "color": "#b07219"
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "Wizardi-API",
+              "description": "API for Wizardi, the discord bot",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 1
+              },
+              "url": "https://github.com/Jaguar000212/Wizardi-API",
+              "id": "R_kgDOK_MDrw",
+              "diskUsage": 22,
+              "primaryLanguage": {
+                "name": "Python",
+                "color": "#3572A5"
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "Wedding-Planner",
+              "description": "Interactive Wedding Planner",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 3
+              },
+              "url": "https://github.com/Jaguar000212/Wedding-Planner",
+              "id": "R_kgDOKipKMQ",
+              "diskUsage": 375,
+              "primaryLanguage": {
+                "name": "Python",
+                "color": "#3572A5"
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "Address-Book",
+              "description": "Your personal contacts manager",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 2
+              },
+              "url": "https://github.com/Jaguar000212/Address-Book",
+              "id": "R_kgDOKibb2Q",
+              "diskUsage": 899,
+              "primaryLanguage": {
+                "name": "Python",
+                "color": "#3572A5"
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "Toodler",
+              "description": "A multi-purpose toolkit for all your needs",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 1
+              },
+              "url": "https://github.com/Jaguar000212/Toodler",
+              "id": "R_kgDONfYiFA",
+              "diskUsage": 101,
+              "primaryLanguage": {
+                "name": "Python",
+                "color": "#3572A5"
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "LOTM-API",
+              "description": "Library that scraps data from one of the fandoms of Lord of the Mysteries, the renounced Novel.",
+              "forkCount": 1,
+              "stargazers": {
+                "totalCount": 1
+              },
+              "url": "https://github.com/Jaguar000212/LOTM-API",
+              "id": "R_kgDONfYiFA",
+              "diskUsage": 79,
+              "primaryLanguage": {
+                "name": "Python",
+                "color": "#3572A5"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
