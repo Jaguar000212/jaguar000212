@@ -65,6 +65,7 @@
       <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" />
       <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" />
       <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" />
+      <img src="https://img.icons8.com/?size=48&id=g9mmSxx3SwAI&format=png&color=000000" alt="React" width="40" />      
     </td>
   </tr>
   <tr>
