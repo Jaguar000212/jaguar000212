@@ -51,12 +51,12 @@
   <tr>
     <td><b>Languages</b></td>
     <td>
+      <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="40" />
+      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" />
       <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" />
       <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" />
       <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" />
       <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" />
-      <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="40" />
-      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" />
     </td>
   </tr>
   <tr>
@@ -65,6 +65,7 @@
       <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" />
       <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" />
       <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" />
+      <img src="https://img.icons8.com/?size=48&id=g9mmSxx3SwAI&format=png&color=000000" alt="React" width="40" />      
     </td>
   </tr>
   <tr>
@@ -73,6 +74,7 @@
       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" />
       <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" />
       <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" />
+      <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" />
     </td>
   </tr>
   <tr>
@@ -81,10 +83,10 @@
       <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" width="40" />
       <img src="https://img.icons8.com/color/48/000000/jetbrains.png" alt="JetBrains IDEs" width="40" />
       <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" width="40" />
-      <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" />
       <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" />
-      <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" />
+      <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" />
       <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" />
+      <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" />
     </td>
   </tr>
   <tr>
