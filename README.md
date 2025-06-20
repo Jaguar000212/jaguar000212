@@ -1,5 +1,7 @@
 <!-- Header -->
+
 # Hey there! I'm Shryansh. <img src="https://github.com/Jaguar000212/Jaguar000212/blob/main/static/media/Hi.gif?raw=true" width="25">
+
 <br>
 <img src="https://github.com/Jaguar000212/Jaguar000212/blob/main/static/media/Jaguar000212.png?raw=true">
 
@@ -7,7 +9,8 @@
 <br>
 <img align="right" alt="GIF" src="https://github.com/Jaguar000212/Jaguar000212/blob/main/static/media/gif2.gif?raw=true" width="300"/>
 
-- 🔭 Dedicating my efforts to mastering Android Development, leveraging Java and Kotlin to craft feature-rich mobile applications.
+- 🔭 Dedicating my efforts to mastering Android Development, leveraging Java and Kotlin to craft feature-rich mobile
+  applications.
 - 🤔 Constantly delving into emerging technologies and crafting innovative software solutions and rapid prototypes.
 - 🎓 Pursuing an in-depth understanding of Computer Science, advanced programming concepts, and Mathematics.
 - 💼 Python and Discord bot developer.
@@ -15,9 +18,8 @@
 - ✍️ Avid gamer and technology aficionado exploring creative side projects and hobbies.
 
 <!--Profile Badges-->
-  
-![Profile Count](https://komarev.com/ghpvc/?username=Jaguar000212&label=Profile%20views&color=2234AE&style=for-the-badge&logo=star)
 
+![Profile Count](https://komarev.com/ghpvc/?username=Jaguar000212&label=Profile%20views&color=2234AE&style=for-the-badge&logo=star)
 
 ![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
