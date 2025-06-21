@@ -1,13 +1,13 @@
 <!-- Header -->
 
-# Hey there! I'm Shryansh. <img src="https://github.com/Jaguar000212/Jaguar000212/blob/main/static/media/Hi.gif?raw=true" width="25">
+# Hey there! I'm Shryansh. <img src="https://github.com/Jaguar000212/Jaguar000212/blob/main/images/others/hi.gif?raw=true" width="25">
 
 <br>
-<img src="https://github.com/Jaguar000212/Jaguar000212/blob/main/static/media/Jaguar000212.png?raw=true">
+<img src="https://github.com/Jaguar000212/Jaguar000212/blob/main/images/others/Jaguar000212.png?raw=true" alt="Banner">
 
 <h2 align="center"> 👨🏻‍💻 About Me </h2>
 <br>
-<img align="right" alt="GIF" src="https://github.com/Jaguar000212/Jaguar000212/blob/main/static/media/gif2.gif?raw=true" width="300"/>
+<img align="right" alt="HI" src="https://github.com/Jaguar000212/Jaguar000212/blob/main/images/others/dev_all_night.gif?raw=true" width="300"/>
 
 - 🔭 Dedicating my efforts to mastering Android Development, leveraging Java and Kotlin to craft feature-rich mobile
   applications.
