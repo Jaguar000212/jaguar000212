@@ -74,14 +74,38 @@
     },
     {
       "id": 10,
-      "name": "Python Classes and Inheritance",
-      "issuer": "University of Michigan",
-      "date": "July 8, 2024",
-      "image": "/images/certificate-logos/michigan.png",
-      "link": "https://coursera.org/verify/RJ6A3TN2TMTG"
+      "name": "Introduction to Android Mobile Application Development",
+      "issuer": "Meta",
+      "date": "June 12, 2024",
+      "image": "/images/certificate-logos/meta.png",
+      "link": "https://coursera.org/verify/FTFM48BCRR7E"
     },
     {
       "id": 11,
+      "name": "Version Control",
+      "issuer": "Meta",
+      "date": "June 12, 2024",
+      "image": "/images/certificate-logos/meta.png",
+      "link": "https://coursera.org/verify/AB6QC4SBMMGW"
+    },
+    {
+      "id": 12,
+      "name": "Programming Fundamentals in Kotlin",
+      "issuer": "Meta",
+      "date": "June 29, 2024",
+      "image": "/images/certificate-logos/meta.png",
+      "link": "https://coursera.org/verify/98BMRZWPNFJS"
+    },
+    {
+      "id": 13,
+      "name": "Principles of UX/UI Design",
+      "issuer": "Meta",
+      "date": "July 6, 2024",
+      "image": "/images/certificate-logos/meta.png",
+      "link": "https://coursera.org/verify/3FVF5V248CET"
+    },
+    {
+      "id": 14,
       "name": "Introduction to Docker",
       "issuer": "Google",
       "date": "July 7, 2024",
@@ -89,7 +113,23 @@
       "link": "https://coursera.org/verify/TV6D4VKHFHEF"
     },
     {
-      "id": 12,
+      "id": 15,
+      "name": "Python Classes and Inheritance",
+      "issuer": "University of Michigan",
+      "date": "July 8, 2024",
+      "image": "/images/certificate-logos/michigan.png",
+      "link": "https://coursera.org/verify/RJ6A3TN2TMTG"
+    },
+    {
+      "id": 16,
+      "name": "Create the User Interface in Android Studio",
+      "issuer": "Meta",
+      "date": "July 18, 2024",
+      "image": "/images/certificate-logos/meta.png",
+      "link": "https://coursera.org/verify/QMFECCZMF53V"
+    },
+    {
+      "id": 17,
       "name": "Introduction to Java and Object-Oriented Programming",
       "issuer": "University of Pennsylvania",
       "date": "October 21, 2024",
@@ -97,7 +137,7 @@
       "link": "https://coursera.org/verify/U9WV1ZZ4K92G"
     },
     {
-      "id": 13,
+      "id": 18,
       "name": "Data Structures",
       "issuer": "University of California, San Diego",
       "date": "January 2, 2025",
@@ -105,12 +145,20 @@
       "link": "https://coursera.org/verify/H8FSQY3NAZQW"
     },
     {
-      "id": 14,
+      "id": 19,
       "name": "APIs in Java",
       "issuer": "Coursera Project Network",
       "date": "January 7, 2025",
       "image": "/images/certificate-logos/coursera.png",
       "link": "https://coursera.org/verify/F7P8G7U76QQ4"
+    },
+    {
+      "id": 20,
+      "name": "Advanced Programming in Kotlin",
+      "issuer": "Meta",
+      "date": "June 30, 2025",
+      "image": "/images/certificate-logos/meta.png",
+      "link": "https://coursera.org/verify/2F8TSAEMH02A"
     }
   ]
 }
