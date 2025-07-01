@@ -74,6 +74,14 @@
     },
     {
       "id": 10,
+      "name": "Foundations of Git - Certification Course",
+      "issuer": "GitKraken",
+      "date": "February 22, 2024",
+      "image": "/images/certificate-logos/gitkraken.png",
+      "link": "https://learn.gitkraken.com/certificates/mgvi3erf9t"
+    },
+    {
+      "id": 10,
       "name": "Introduction to Android Mobile Application Development",
       "issuer": "Meta",
       "date": "June 12, 2024",
