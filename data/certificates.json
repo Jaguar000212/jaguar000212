@@ -1,0 +1,117 @@
+{
+  "certificates": [
+    {
+      "id": 1,
+      "name": "Programming for Everybody (Getting Started with Python)",
+      "issuer": "University of Michigan",
+      "date": "October 21, 2023",
+      "image": "/images/certificate-logos/michigan.png",
+      "link": "https://coursera.org/verify/DZUCDKCW49X2"
+    },
+    {
+      "id": 2,
+      "name": "Crash Course on Python",
+      "issuer": "Google",
+      "date": "October 21, 2023",
+      "image": "/images/certificate-logos/google.png",
+      "link": "https://coursera.org/verify/XNFB9PYFWDNL"
+    },
+    {
+      "id": 3,
+      "name": "Python Data Structures",
+      "issuer": "University of Michigan",
+      "date": "October 22, 2023",
+      "image": "/images/certificate-logos/michigan.png",
+      "link": "https://coursera.org/verify/9EPGHEWECZA8"
+    },
+    {
+      "id": 4,
+      "name": "Python for Data Science, AI & Development",
+      "issuer": "IBM",
+      "date": "October 23, 2023",
+      "image": "/images/certificate-logos/ibm.png",
+      "link": "https://coursera.org/verify/XU5KR8V7NDKA"
+    },
+    {
+      "id": 5,
+      "name": "Object-Oriented Programming and GUI with Python",
+      "issuer": "Arizona State University",
+      "date": "October 24, 2023",
+      "image": "/images/certificate-logos/asu.png",
+      "link": "https://coursera.org/verify/7K396FUWEFS8"
+    },
+    {
+      "id": 6,
+      "name": "Introduction to Python Programming",
+      "issuer": "University of Pennsylvania",
+      "date": "November 14, 2023",
+      "image": "/images/certificate-logos/penn.png",
+      "link": "https://coursera.org/verify/CVFKJJJ5KEXV"
+    },
+    {
+      "id": 7,
+      "name": "Python Basics",
+      "issuer": "University of Michigan",
+      "date": "December 5, 2023",
+      "image": "/images/certificate-logos/michigan.png",
+      "link": "https://coursera.org/verify/WQJR2F8T2AMY"
+    },
+    {
+      "id": 8,
+      "name": "MongoDB Python Developer Path",
+      "issuer": "MongoDB University",
+      "date": "December 28, 2023",
+      "image": "/images/certificate-logos/mongodb.png",
+      "link": "https://learn.mongodb.com/c/wrKK37JgQq6lU-oxSjt4gA"
+    },
+    {
+      "id": 9,
+      "name": "Python Functions, Files, and Dictionaries",
+      "issuer": "University of Michigan",
+      "date": "December 29, 2023",
+      "image": "/images/certificate-logos/michigan.png",
+      "link": "https://coursera.org/verify/5HKQ9FXYCFBZ"
+    },
+    {
+      "id": 10,
+      "name": "Python Classes and Inheritance",
+      "issuer": "University of Michigan",
+      "date": "July 8, 2024",
+      "image": "/images/certificate-logos/michigan.png",
+      "link": "https://coursera.org/verify/RJ6A3TN2TMTG"
+    },
+    {
+      "id": 11,
+      "name": "Introduction to Docker",
+      "issuer": "Google",
+      "date": "July 7, 2024",
+      "image": "/images/certificate-logos/google.png",
+      "link": "https://coursera.org/verify/TV6D4VKHFHEF"
+    },
+    {
+      "id": 12,
+      "name": "Introduction to Java and Object-Oriented Programming",
+      "issuer": "University of Pennsylvania",
+      "date": "October 21, 2024",
+      "image": "/images/certificate-logos/penn.png",
+      "link": "https://coursera.org/verify/U9WV1ZZ4K92G"
+    },
+    {
+      "id": 13,
+      "name": "Data Structures",
+      "issuer": "University of California, San Diego",
+      "date": "January 2, 2025",
+      "image": "/images/certificate-logos/uc_san.png",
+      "link": "https://coursera.org/verify/H8FSQY3NAZQW"
+    },
+    {
+      "id": 14,
+      "name": "APIs in Java",
+      "issuer": "Coursera Project Network",
+      "date": "January 7, 2025",
+      "image": "/images/certificate-logos/coursera.png",
+      "link": "https://coursera.org/verify/F7P8G7U76QQ4"
+    }
+  ]
+}
+

@@ -1,0 +1,83 @@
+{
+  "repositories": [
+    {
+      "id": "R_kgDOKiT1tA",
+      "name": "Wizardi",
+      "description": "A multi utility Discord bot in Python",
+      "url": "https://github.com/Jaguar000212/Wizardi",
+      "stargazerCount": 2,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "updatedAt": "2025-05-25T15:35:58Z"
+    },
+    {
+      "id": "R_kgDOKipKMQ",
+      "name": "Wedding-Planner",
+      "description": "Interactive Wedding Planner",
+      "url": "https://github.com/Jaguar000212/Wedding-Planner",
+      "stargazerCount": 3,
+      "forkCount": 1,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "updatedAt": "2025-06-25T04:08:44Z"
+    },
+    {
+      "id": "R_kgDOKibb2Q",
+      "name": "Address-Book",
+      "description": "Your personal contacts manager",
+      "url": "https://github.com/Jaguar000212/Address-Book",
+      "stargazerCount": 2,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "updatedAt": "2024-06-29T11:57:35Z"
+    },
+    {
+      "id": "R_kgDONdfC9g",
+      "name": "Self-Notes",
+      "description": "A personal noting app for android made in Java",
+      "url": "https://github.com/Jaguar000212/Self-Notes",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "updatedAt": "2025-01-12T18:34:54Z"
+    },
+    {
+      "id": "R_kgDONfYiFA",
+      "name": "Tool-Kit",
+      "description": "All in one tool kit for daily use designed for simplicity, security and ease",
+      "url": "https://github.com/Jaguar000212/Tool-Kit",
+      "stargazerCount": 1,
+      "forkCount": 1,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "updatedAt": "2025-02-17T01:51:25Z"
+    },
+    {
+      "id": "R_kgDOMUmD-A",
+      "name": "Little-Lemon",
+      "description": "An app for a hypothetical restaurant, built during a course by META",
+      "url": "https://github.com/Jaguar000212/Little-Lemon",
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "Kotlin",
+        "color": "#A97BFF"
+      },
+      "updatedAt": "2025-06-28T09:58:18Z"
+    }
+  ],
+  "lastFetched": "2025-07-01T03:45:21.970Z"
+}

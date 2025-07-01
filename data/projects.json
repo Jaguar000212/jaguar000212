@@ -1,0 +1,29 @@
+{
+  "projects": [
+    {
+        "id": 1,
+        "title": "Little Lemon Restaurant App",
+        "description": "A fully functional restaurant app developed as part of Meta's Android certification program. It features user authentication with Firebase, dynamic menu rendering via Firestore, and an admin panel for managing dishes and orders — all built with a polished Jetpack Compose UI.",
+        "technologies": [
+            "Kotlin",
+            "Jetpack Compose",
+            "Firebase Firestore",
+            "Firebase Auth",
+            "Material Design"
+        ],
+        "image": "/images/project-previews/little-lemon.webp",
+        "github": "https://github.com/Jaguar000212/Little-Lemon",
+        "featured": true
+    },
+    {
+        "id": 2,
+        "title": "Wizardi – Multi-Utility Discord Bot",
+        "description": "A versatile and customizable Discord bot built with Python. Wizardi features modular command handling, rich embeds, moderation tools, and integrations for server utility and fun, all designed with scalability in mind.",
+        "technologies": ["Python", "Disnake", "REST APIs", "MongoDB"],
+        "image": "/images/project-previews/Wizardi.png",
+        "github": "https://github.com/Jaguar000212/Wizardi",
+        "featured": true
+    }
+  ]
+}
+

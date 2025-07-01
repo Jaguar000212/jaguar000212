@@ -1,0 +1,36 @@
+{
+  "education": [
+    {
+        "id": 1,
+        "degree": "B.Tech in Computer Science",
+        "institution": "Manipal Institute of Technology",
+        "location": "Bangalore, India",
+        "duration": "August 2023 - Present",
+        "highlights": [
+            "Learning C Language and Data Structures",
+            "Active member of GDSC, a community of developers by Google",
+            "Member of CodeX, the coding club of MIT",
+            "Developing a Game under the guidance of Club Committee",
+            "Earned multiple certificates from Coursera and other platforms",
+            "Participated in many Hackathons and Coding Competitions"
+        ],
+        "logo": "/images/education-logos/manipal.png"
+    },
+    {
+        "id": 2,
+        "degree": "Intermediate (PCM)",
+        "institution": "Subodh Public School",
+        "location": "Jaipur, India",
+        "duration": "August 2021 - April 2023",
+        "highlights": [
+            "Passed with 91% in PCM (Physics, Chemistry, Mathematics)",
+            "Performed outstanding in Informatics Practices with a score of 97%",
+            "Participated in many Olympiads and Science Competitions",
+            "Learned Python and libraries like Pandas, Numpy, Matplotlib for Data Science",
+            "Developed a CLI based Wedding Planner using Python"
+        ],
+        "logo": "/images/education-logos/spsa.png"
+    }
+  ]
+}
+

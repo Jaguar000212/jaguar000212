@@ -1,0 +1,112 @@
+{
+  "skills": {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "level": 80,
+        "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
+      },
+      {
+        "name": "Java",
+        "level": 70,
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"
+      },
+      {
+        "name": "Python",
+        "level": 90,
+        "icon": "https://img.icons8.com/color/48/000000/python.png"
+      },
+      {
+        "name": "C",
+        "level": 45,
+        "icon": "https://img.icons8.com/color/48/000000/c-programming.png"
+      },
+      {
+        "name": "C++",
+        "level": 50,
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "level": 70,
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Android Studio",
+        "level": 90,
+        "icon": "https://img.icons8.com/color/48/000000/android-studio--v3.png"
+      },
+      {
+        "name": "JetBrains IDEs",
+        "level": 85,
+        "icon": "https://img.icons8.com/color/48/000000/jetbrains.png"
+      },
+      {
+        "name": "VS Code",
+        "level": 95,
+        "icon": "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
+      },
+      {
+        "name": "Git",
+        "level": 100,
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+      },
+      {
+        "name": "Docker",
+        "level": 70,
+        "icon": "https://img.icons8.com/color/48/000000/docker.png"
+      },
+      {
+        "name": "Linux",
+        "level": 50,
+        "icon": "https://img.icons8.com/color/48/000000/linux.png"
+      }
+    ],
+    "frontend": [
+      {
+        "name": "HTML",
+        "level": 100,
+        "icon": "https://img.icons8.com/color/48/000000/html-5.png"
+      },
+      {
+        "name": "CSS",
+        "level": 100,
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+      },
+      {
+        "name": "React",
+        "level": 65,
+        "icon": "https://img.icons8.com/color/48/000000/react-native.png"
+      },
+      {
+        "name": "Jetpack Compose",
+        "level": 90,
+        "icon": "https://logo.svgcdn.com/d/jetpackcompose-original.png"
+      }
+    ],
+    "backend": [
+      {
+        "name": "MySQL",
+        "level": 80,
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": 70,
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+      },
+      {
+        "name": "MongoDB",
+        "level": 60,
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+      },
+      {
+        "name": "Firebase",
+        "level": 90,
+        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+      }
+    ]
+  }
+}
