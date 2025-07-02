@@ -6,7 +6,11 @@
       "issuer": "University of Michigan",
       "date": "October 21, 2023",
       "image": "/images/certificate-logos/michigan.png",
-      "link": "https://coursera.org/verify/DZUCDKCW49X2"
+      "link": "https://coursera.org/verify/DZUCDKCW49X2",
+      "technologies": [
+        "Python",
+        "Programming Fundamentals"
+      ]
     },
     {
       "id": 2,
@@ -14,7 +18,11 @@
       "issuer": "Google",
       "date": "October 21, 2023",
       "image": "/images/certificate-logos/google.png",
-      "link": "https://coursera.org/verify/XNFB9PYFWDNL"
+      "link": "https://coursera.org/verify/XNFB9PYFWDNL",
+      "technologies": [
+        "Python",
+        "Programming Fundamentals"
+      ]
     },
     {
       "id": 3,
@@ -22,7 +30,11 @@
       "issuer": "University of Michigan",
       "date": "October 22, 2023",
       "image": "/images/certificate-logos/michigan.png",
-      "link": "https://coursera.org/verify/9EPGHEWECZA8"
+      "link": "https://coursera.org/verify/9EPGHEWECZA8",
+      "technologies": [
+        "Python",
+        "Data Structures"
+      ]
     },
     {
       "id": 4,
@@ -30,7 +42,17 @@
       "issuer": "IBM",
       "date": "October 23, 2023",
       "image": "/images/certificate-logos/ibm.png",
-      "link": "https://coursera.org/verify/XU5KR8V7NDKA"
+      "link": "https://coursera.org/verify/XU5KR8V7NDKA",
+      "technologies": [
+        "Python",
+        "Data Science",
+        "AI",
+        "Development",
+        "Pandas",
+        "NumPy",
+        "Web Scraping",
+        "HTTP"
+      ]
     },
     {
       "id": 5,
@@ -38,7 +60,14 @@
       "issuer": "Arizona State University",
       "date": "October 24, 2023",
       "image": "/images/certificate-logos/asu.png",
-      "link": "https://coursera.org/verify/7K396FUWEFS8"
+      "link": "https://coursera.org/verify/7K396FUWEFS8",
+      "technologies": [
+        "Python",
+        "Object-Oriented Programming",
+        "GUI",
+        "Tkinter",
+        "PyQt"
+      ]
     },
     {
       "id": 6,
@@ -46,7 +75,11 @@
       "issuer": "University of Pennsylvania",
       "date": "November 14, 2023",
       "image": "/images/certificate-logos/penn.png",
-      "link": "https://coursera.org/verify/CVFKJJJ5KEXV"
+      "link": "https://coursera.org/verify/CVFKJJJ5KEXV",
+      "technologies": [
+        "Python",
+        "Programming Fundamentals"
+      ]
     },
     {
       "id": 7,
@@ -54,7 +87,12 @@
       "issuer": "University of Michigan",
       "date": "December 5, 2023",
       "image": "/images/certificate-logos/michigan.png",
-      "link": "https://coursera.org/verify/WQJR2F8T2AMY"
+      "link": "https://coursera.org/verify/WQJR2F8T2AMY",
+      "technologies": [
+        "Python",
+        "Programming Fundamentals",
+        "Debugging"
+      ]
     },
     {
       "id": 8,
@@ -62,7 +100,11 @@
       "issuer": "MongoDB University",
       "date": "December 28, 2023",
       "image": "/images/certificate-logos/mongodb.png",
-      "link": "https://learn.mongodb.com/c/wrKK37JgQq6lU-oxSjt4gA"
+      "link": "https://learn.mongodb.com/c/wrKK37JgQq6lU-oxSjt4gA",
+      "technologies": [
+        "MongoDB",
+        "NoSQL"
+      ]
     },
     {
       "id": 9,
@@ -70,7 +112,10 @@
       "issuer": "University of Michigan",
       "date": "December 29, 2023",
       "image": "/images/certificate-logos/michigan.png",
-      "link": "https://coursera.org/verify/5HKQ9FXYCFBZ"
+      "link": "https://coursera.org/verify/5HKQ9FXYCFBZ",
+      "technologies": [
+        "Python"
+      ]
     },
     {
       "id": 10,
@@ -78,7 +123,12 @@
       "issuer": "GitKraken",
       "date": "February 22, 2024",
       "image": "/images/certificate-logos/gitkraken.png",
-      "link": "https://learn.gitkraken.com/certificates/mgvi3erf9t"
+      "link": "https://learn.gitkraken.com/certificates/mgvi3erf9t",
+      "technologies": [
+        "Git",
+        "Version Control",
+        "GitKraken"
+      ]
     },
     {
       "id": 11,
@@ -86,7 +136,13 @@
       "issuer": "Meta",
       "date": "June 12, 2024",
       "image": "/images/certificate-logos/meta.png",
-      "link": "https://coursera.org/verify/FTFM48BCRR7E"
+      "link": "https://coursera.org/verify/FTFM48BCRR7E",
+      "technologies": [
+        "Android",
+        "Android Studio",
+        "Kotlin",
+        "Jetpack Compose"
+      ]
     },
     {
       "id": 12,
@@ -94,7 +150,11 @@
       "issuer": "Meta",
       "date": "June 12, 2024",
       "image": "/images/certificate-logos/meta.png",
-      "link": "https://coursera.org/verify/AB6QC4SBMMGW"
+      "link": "https://coursera.org/verify/AB6QC4SBMMGW",
+      "technologies": [
+        "Git",
+        "Version Control"
+      ]
     },
     {
       "id": 13,
@@ -102,7 +162,11 @@
       "issuer": "Meta",
       "date": "June 29, 2024",
       "image": "/images/certificate-logos/meta.png",
-      "link": "https://coursera.org/verify/98BMRZWPNFJS"
+      "link": "https://coursera.org/verify/98BMRZWPNFJS",
+      "technologies": [
+        "Kotlin",
+        "Android"
+      ]
     },
     {
       "id": 14,
@@ -110,7 +174,11 @@
       "issuer": "Meta",
       "date": "July 6, 2024",
       "image": "/images/certificate-logos/meta.png",
-      "link": "https://coursera.org/verify/3FVF5V248CET"
+      "link": "https://coursera.org/verify/3FVF5V248CET",
+      "technologies": [
+        "UX/UI",
+        "Figma"
+      ]
     },
     {
       "id": 15,
@@ -118,7 +186,11 @@
       "issuer": "Google",
       "date": "July 7, 2024",
       "image": "/images/certificate-logos/google.png",
-      "link": "https://coursera.org/verify/TV6D4VKHFHEF"
+      "link": "https://coursera.org/verify/TV6D4VKHFHEF",
+      "technologies": [
+        "Docker",
+        "Containerization"
+      ]
     },
     {
       "id": 16,
@@ -126,7 +198,11 @@
       "issuer": "University of Michigan",
       "date": "July 8, 2024",
       "image": "/images/certificate-logos/michigan.png",
-      "link": "https://coursera.org/verify/RJ6A3TN2TMTG"
+      "link": "https://coursera.org/verify/RJ6A3TN2TMTG",
+      "technologies": [
+        "Python",
+        "Object-Oriented Programming"
+      ]
     },
     {
       "id": 17,
@@ -134,7 +210,11 @@
       "issuer": "Meta",
       "date": "July 18, 2024",
       "image": "/images/certificate-logos/meta.png",
-      "link": "https://coursera.org/verify/QMFECCZMF53V"
+      "link": "https://coursera.org/verify/QMFECCZMF53V",
+      "technologies": [
+        "Android",
+        "Jetpack Compose"
+      ]
     },
     {
       "id": 18,
@@ -142,7 +222,11 @@
       "issuer": "University of Pennsylvania",
       "date": "October 21, 2024",
       "image": "/images/certificate-logos/penn.png",
-      "link": "https://coursera.org/verify/U9WV1ZZ4K92G"
+      "link": "https://coursera.org/verify/U9WV1ZZ4K92G",
+      "technologies": [
+        "Java",
+        "Object-Oriented Programming"
+      ]
     },
     {
       "id": 19,
@@ -150,7 +234,11 @@
       "issuer": "University of California, San Diego",
       "date": "January 2, 2025",
       "image": "/images/certificate-logos/uc_san.png",
-      "link": "https://coursera.org/verify/H8FSQY3NAZQW"
+      "link": "https://www.coursera.org/verify/F7P8G7U76QQ4",
+      "technologies": [
+        "Data Structures",
+        "Algorithms"
+      ]
     },
     {
       "id": 20,
@@ -158,7 +246,14 @@
       "issuer": "Coursera Project Network",
       "date": "January 7, 2025",
       "image": "/images/certificate-logos/coursera.png",
-      "link": "https://coursera.org/verify/F7P8G7U76QQ4"
+      "link": "https://coursera.org/verify/R7TR5AYUKKH5",
+      "technologies": [
+        "Java",
+        "APIs",
+        "HTTP",
+        "Spark",
+        "Postman"
+      ]
     },
     {
       "id": 21,
@@ -166,7 +261,12 @@
       "issuer": "Meta",
       "date": "June 30, 2025",
       "image": "/images/certificate-logos/meta.png",
-      "link": "https://coursera.org/verify/2F8TSAEMH02A"
+      "link": "https://coursera.org/verify/2F8TSAEMH02A",
+      "technologies": [
+        "Kotlin",
+        "Android",
+        "Jetpack Compose"
+      ]
     }
   ]
 }

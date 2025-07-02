@@ -11,7 +11,14 @@
         "name": "Python",
         "color": "#3572A5"
       },
-      "updatedAt": "2025-05-25T15:35:58Z"
+      "updatedAt": "2025-05-25T15:35:58Z",
+      "topics": [
+        "discord",
+        "discord-bot",
+        "discord-py",
+        "disnake",
+        "disnake-slash-command"
+      ]
     },
     {
       "id": "R_kgDOKipKMQ",
@@ -24,7 +31,15 @@
         "name": "Python",
         "color": "#3572A5"
       },
-      "updatedAt": "2025-06-25T04:08:44Z"
+      "updatedAt": "2025-06-25T04:08:44Z",
+      "topics": [
+        "management-system",
+        "manager",
+        "mysql",
+        "project",
+        "python",
+        "wedding-planner"
+      ]
     },
     {
       "id": "R_kgDOKibb2Q",
@@ -37,7 +52,12 @@
         "name": "Python",
         "color": "#3572A5"
       },
-      "updatedAt": "2024-06-29T11:57:35Z"
+      "updatedAt": "2024-06-29T11:57:35Z",
+      "topics": [
+        "address-book",
+        "contacts",
+        "project"
+      ]
     },
     {
       "id": "R_kgDONdfC9g",
@@ -45,12 +65,18 @@
       "description": "A personal noting app for android made in Java",
       "url": "https://github.com/Jaguar000212/Self-Notes",
       "stargazerCount": 7,
-      "forkCount": 0,
+      "forkCount": 1,
       "primaryLanguage": {
         "name": "Java",
         "color": "#b07219"
       },
-      "updatedAt": "2025-01-12T18:34:54Z"
+      "updatedAt": "2025-01-12T18:34:54Z",
+      "topics": [
+        "android",
+        "android-app",
+        "android-studio",
+        "java"
+      ]
     },
     {
       "id": "R_kgDONfYiFA",
@@ -63,7 +89,14 @@
         "name": "Java",
         "color": "#b07219"
       },
-      "updatedAt": "2025-02-17T01:51:25Z"
+      "updatedAt": "2025-02-17T01:51:25Z",
+      "topics": [
+        "android",
+        "apk",
+        "application",
+        "java",
+        "utility"
+      ]
     },
     {
       "id": "R_kgDOMUmD-A",
@@ -76,8 +109,13 @@
         "name": "Kotlin",
         "color": "#A97BFF"
       },
-      "updatedAt": "2025-06-28T09:58:18Z"
+      "updatedAt": "2025-06-28T09:58:18Z",
+      "topics": [
+        "android",
+        "jetpack-compose",
+        "kotlin"
+      ]
     }
   ],
-  "lastFetched": "2025-07-01T03:45:21.970Z"
+  "lastFetched": "2025-07-02T17:16:13.107Z"
 }
