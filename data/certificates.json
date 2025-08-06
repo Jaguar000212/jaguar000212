@@ -267,6 +267,17 @@
         "Android",
         "Jetpack Compose"
       ]
+    },
+    {
+      "id": 22,
+      "name": "Kotlin for Java Developers",
+      "issuer": "JetBrains",
+      "date": "August 06, 2025",
+      "image": "/images/certificate-logos/jetbrains.jpeg",
+      "link": "https://coursera.org/verify/TSOPK83I7IO9",
+      "technologies": [
+        "Kotlin"
+      ]
     }
   ]
 }
