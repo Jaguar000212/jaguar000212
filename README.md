@@ -101,7 +101,7 @@
 <h2 align="center"> 📊 GitHub Stats </h2>
 
 <p align="center">
-  <a href="https://github.com/Jaguar000212/Jaguar000212">
+  <a href="https://github.com/Jaguar000212/">
     <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=Jaguar000212&custom_title=Shryansh's%20Github%20Stats&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000" alt="Jaguar000212's Github Stats">
     <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaguar000212&custom_title=Shryansh's%20Languages%20Stats&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000&layout=compact">
     <br><br>
