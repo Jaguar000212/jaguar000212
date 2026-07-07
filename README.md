@@ -67,7 +67,7 @@ I am a Software Engineer currently building high-performance native Android appl
 
 ---
 
-<h2 align="center"> 📊 GitHub Stats </h2>
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Jaguar000212/">
@@ -80,8 +80,8 @@ I am a Software Engineer currently building high-performance native Android appl
 
 ---
 
-<h2 align="center"> 🤝🏻 Let’s Collaborate </h2>
-<h3 align="center">I’m always eager to collaborate on exciting projects or discuss innovative ideas—let's connect!</h3>
+## 🤝🏻 Let’s Collaborate
+### I’m always eager to collaborate on exciting projects or discuss innovative ideas—let's connect!
 <p align="center">
   &nbsp; <a href="https://twitter.com/Jaguar000212" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
   &nbsp; <a href="https://www.instagram.com/Jaguar000212/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a> 
