@@ -29,7 +29,7 @@
 
 I am a Software Engineer currently building high-performance native Android applications and scalable data-driven backend systems. I focus on clean architecture, resilient APIs, and automating complex workflows.
 
-- 🏢 **Currently working on:** Architecting **TenderOS**, a multi-tenant enterprise SaaS using Python, FastAPI, and PostgreSQL.
+- 🏢 **Currently working on:** Architecting **GearBox**, a multi-utility app for Android using Kotlin.
 - 📱 **Mobile Development:** Building 100% Kotlin native apps with **Jetpack Compose**, MVVM, and RoomDB.
 - ⚙️ **Systems & Backend:** Designing async pipelines, custom compilers, and automated data aggregation engines.
 - 🐧 **Environment:** Arch Linux power user.
@@ -71,8 +71,9 @@ I am a Software Engineer currently building high-performance native Android appl
 
 <p align="center">
   <a href="https://github.com/Jaguar000212/">
-    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=Jaguar000212&custom_title=Shryansh's%20Github%20Stats&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000" alt="Jaguar000212's Github Stats">
-    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaguar000212&custom_title=Shryansh's%20Languages%20Stats&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000&layout=compact">
+    <img align="center" height=200 src="https://github-stats-extended.vercel.app/api?username=Jaguar000212&custom_title=Shryansh's%20Github%20Stats&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000" alt="Jaguar000212's Github Stats">
+    <br><br>
+    <img align="center" height=200 src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jaguar000212&custom_title=Shryansh's%20Languages%20Stats&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000&layout=compact">
     <br><br>
     <img src="https://streak-stats.demolab.com?user=Jaguar000212&theme=radical&background=000000" alt="GitHub Streak">
   </a>
